@@ -1,1 +1,4 @@
-"Good Morning"
+[
+  "Good Morning",
+  "Hello"
+]
