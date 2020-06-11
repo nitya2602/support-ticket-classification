@@ -1,0 +1,4 @@
+custom = [
+  "Good Morning",
+  "Hello"
+]
